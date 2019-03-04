@@ -2,7 +2,7 @@
   "name": "sample",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tetsutaro-kosuga.github.io/sample/",
+  "homepage": "http://tetsutaro-kosuga.github.io/sample/",
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
